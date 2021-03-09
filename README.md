@@ -30,7 +30,7 @@ List of the libraries required to execute the code:
 
 This project use a dataset from a competetion of kaggle, you will find in the following link: https://www.kaggle.com/c/histopathologic-cancer-detection/data 
 
-The images used were 40.000 images choosen randomly
+The images used were 10.000 images choosen randomly
 
 
 
