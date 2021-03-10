@@ -32,9 +32,10 @@ This project use a dataset from a competetion of kaggle, you will find in the fo
 
 The images used were 10.000 images choosen randomly
 
-
+## Video
+https://drive.google.com/file/d/1-r0aEmA8hgREnjPI6cZyTZyrDFuXEYr3/view?usp=sharing
 
 ## Autores ✒️
 * Jorge Alfredo Jaimes Teherán - 
-* Alejandro José Espinel - 
+* Alejandro José Espinel Perez - 
  
